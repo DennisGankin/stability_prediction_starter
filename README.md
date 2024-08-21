@@ -10,6 +10,8 @@ Only a small selection.
 
 [Rapid protein stability prediction using deep learning representations](https://elifesciences.org/articles/82593)
 
+[Biophysics-based protein language models for protein engineering](https://www.biorxiv.org/content/10.1101/2024.03.15.585128v1?s=31)
+
 
 ## Megascale dataset
 
