@@ -3,6 +3,9 @@ Protein Stability Prediction student project resources
 
 # Literature and data
 
+Review from 2020; a bit outdated, but good introduction int protein stability prediction:
+[Limitations and challenges in protein stability prediction upon genome variations: towards future applications in precision medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7397395/)
+
 ## Protein stability prediction papers
 Only a small selection.
 
@@ -17,7 +20,7 @@ Only a small selection.
 
 [Mega-scale experimental analysis of protein folding stability in biology and design](https://www.nature.com/articles/s41586-023-06328-6)
 
-Preprocessed data (with train test split):
+Preprocessed data (with train test split) in the ThermoMPNN repository:
 https://github.com/Kuhlman-Lab/ThermoMPNN
 
 ## Domainome dataset
